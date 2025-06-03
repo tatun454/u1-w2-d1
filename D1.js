@@ -16,6 +16,9 @@ REGOLE
 2. Numero: rappresenta valori numerici, come 5
 3. Booleano: è un tipo di dato che può essere vero o falso
 4. Oggetto: è una raccolta di proprietà e valori, come un contenitore che può avere diverse cose dentro
+5. NAN: è un valore che rappresenta un numero non valido
+6. Undefined: è un tipo di dato che indica che una variabile non ha ancora un valore assegnato
+7. Null: è un tipo di dato che indica l'assenza di valore, come se non ci fosse nulla
 */
 
 /* ESERCIZIO 2
